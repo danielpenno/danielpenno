@@ -1,16 +1,19 @@
-### Hi there 👋
+# Daniel Pennno
 
-<!--
-**danielpenno/danielpenno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielpenno/)](https://www.linkedin.com/in/danielpenno/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:contato@danielpenno.com)](mailto:contato@danielpenno.com)
 
-Here are some ideas to get you started:
+## 👋 Hi there, welcome to my GitHub! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Infrastructure and Network Analyst and also as a Technical Support.
+- 🎯 Linux, Windows, Networks, Firewalls, Docker, IT Support
+- 📌 From Palmas - Tocantins, Brazil
+- 👉 Please, visit https://danielpenno.com
+
+# 
+## 👋 E aí, bem-vindo(a) ao meu GitHub! 🚀
+
+- 💻 Analista de Infraestrutura e Redes e também como Suporte Técnico.
+- 🎯 Linux, Windows, Redes, Firewalls, Docker, Suporte de TI
+- 📌 Palmas - Tocantins, Brasil
+- 👉 Visite https://danielpenno.com
