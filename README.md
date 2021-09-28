@@ -10,7 +10,6 @@
 - 📌 From Palmas - Tocantins, Brazil
 - 👉 Please, visit https://danielpenno.com
 
-# 
 ## 👋 E aí, bem-vindo(a) ao meu GitHub! 🚀
 
 - 💻 Analista de Infraestrutura e Redes e também Suporte Técnico.
