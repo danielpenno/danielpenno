@@ -5,7 +5,7 @@
 
 ## 👋 Hi there, welcome to my GitHub! 🚀
 
-- 💻 Infrastructure and Network Analyst and also as a Technical Support.
+- 💻 Infrastructure and Network Analyst and also Technical Support.
 - 🎯 Linux, Windows, Networks, Firewalls, Docker, IT Support
 - 📌 From Palmas - Tocantins, Brazil
 - 👉 Please, visit https://danielpenno.com
@@ -13,7 +13,7 @@
 # 
 ## 👋 E aí, bem-vindo(a) ao meu GitHub! 🚀
 
-- 💻 Analista de Infraestrutura e Redes e também como Suporte Técnico.
+- 💻 Analista de Infraestrutura e Redes e também Suporte Técnico.
 - 🎯 Linux, Windows, Redes, Firewalls, Docker, Suporte de TI
 - 📌 Palmas - Tocantins, Brasil
 - 👉 Visite https://danielpenno.com
