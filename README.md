@@ -13,6 +13,8 @@
 > > 
 > > Hypervisors Bare Metal: *VMware*
 > > 
+> > Public Cloud: *AWS*
+> > 
 > > CI: *Jenkins*
 > > 
 > > Orchestration: *Docker Swarm, Kubernetes*
@@ -57,6 +59,8 @@
 > 💻Conhecimento:
 > > 
 > > Hypervisors: *VMware*
+> > 
+> > Cloud Pública: *AWS*
 > > 
 > > CI: *Jenkins*
 > > 
