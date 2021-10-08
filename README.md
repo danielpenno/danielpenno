@@ -50,7 +50,44 @@
 
 ## 👋 E aí, bem-vindo(a) ao meu GitHub! 🚀
 
-- 💻 Analista de Infraestrutura e Redes e também Suporte Técnico.
-- 🎯 Linux, Windows, Redes, Firewalls, AWS, Docker, Suporte de TI
-- 📌 Palmas - Tocantins, Brasil
-- 👉 Visite https://danielpenno.com
+> 🖖🏾 Olá, tenho 26 anos, estou cursando Tecnólogo em DevOps (2021-2023), pela UNOPAR, e possuo Técnico em Informática (2009-2012), pelo Instituto Federal de Educação, Ciência e Tecnologia do Tocantins.
+> 
+> 🆙 Profissional com grande experiência em suporte a servidores (cerca de 7 anos). Tenho experiência com ambientes de sistemas Linux e Windows. Trabalhei com redes e firewalls em ambientes locais. Conhecimento da cultura DevOps e ferramentas solicitadas no mercado. No momento estou fazendo cursos de especialização em DevOps. 
+> 
+> 💻Conhecimento:
+> > 
+> > Hypervisors: *VMware*
+> > 
+> > CI: *Jenkins*
+> > 
+> > Orquestração: *Docker Swarm, Kubernetes*
+> > 
+> > Monitoramento: *Cacti, Grafana, Telegraf, Zabbix*
+> > 
+> > Dev: *PHP, C*
+> > 
+> > IaC: *Terraform*
+> > 
+> > Provisionamento: *Ansible*
+> > 
+> > Chamados: *SATI (sistema de chamados desenvolvido pela Agência de Tecnologia da Informação do Município de Palmas)*
+> > 
+> > Servidores de email: *Zimbra*
+> > 
+> > Protocolos: *SNMP*
+> > 
+> > Firewalls: *Blockbit, pfSense, Aker Firewall*
+> > 
+> > Servidores Web: *Apache, NGINX, IIS*
+> > 
+> > Banco de Dados: *MySQL, PostgreSQL*
+> 
+> ✍️ Compreendo inglês, consigo aprender as coisas com rapidez e gosto de compartilhar conhecimento.
+> 
+> 🏖 No meu tempo livre gosto de procurar conhecimento e também me divertir (jogos online, haha).
+> 
+> 📧 Vamos bater um papo? Fique à vontade para me adicionar ou entrar em contato.
+> 
+> 📌 Palmas - Tocantins, Brasil
+> 
+> 👉 Visite https://danielpenno.com
