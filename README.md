@@ -25,7 +25,7 @@
 > > 
 > > Provisioning: *Ansible*
 > > 
-> > Ticket Tools: *SATI (pivate ticket system, developed by the IT Agency of the Municipality of Palmas)*
+> > Ticket Tools: *SATI (private ticket system, developed by the IT Agency of the Municipality of Palmas)*
 > > 
 > > Mail Servers: *Zimbra*
 > > 
