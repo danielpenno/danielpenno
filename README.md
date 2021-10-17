@@ -11,27 +11,23 @@
 > 
 > 💻Knowledge:
 > > 
-> > Hypervisors Bare Metal: *VMware*
+> > Hypervisors: *VMware*
 > > 
 > > Public Cloud: *AWS*
 > > 
-> > CI: *Jenkins*
+> > CI/CD: *Jenkins*
 > > 
-> > Orchestration: *Docker Swarm, Kubernetes*
+> > Orchestration: *Docker, Kubernetes*
 > > 
 > > Monitoring: *Cacti, Grafana, Telegraf, Zabbix*
 > > 
 > > Dev: *PHP, C*
 > > 
-> > IaC: *Terraform*
-> > 
-> > Provisioning: *Ansible*
+> > IaC: *Vagrant, Terraform, Ansible, Puppet*
 > > 
 > > Ticket Tools: *SATI (private ticket system, developed by the IT Agency of the Municipality of Palmas)*
 > > 
 > > Mail Servers: *Zimbra*
-> > 
-> > Protocols: *SNMP*
 > > 
 > > Firewalls: *Blockbit, pfSense, Aker Firewall*
 > > 
@@ -62,23 +58,19 @@
 > > 
 > > Cloud Pública: *AWS*
 > > 
-> > CI: *Jenkins*
+> > CI/CD: *Jenkins*
 > > 
-> > Orquestração: *Docker Swarm, Kubernetes*
+> > Orquestração: *Docker, Kubernetes*
 > > 
 > > Monitoramento: *Cacti, Grafana, Telegraf, Zabbix*
 > > 
 > > Dev: *PHP, C*
 > > 
-> > IaC: *Terraform*
-> > 
-> > Provisionamento: *Ansible*
+> > IaC: *Vagrant, Terraform, Ansible, Puppet*
 > > 
 > > Chamados: *SATI (sistema de chamados desenvolvido pela Agência de Tecnologia da Informação do Município de Palmas)*
 > > 
-> > Servidores de email: *Zimbra*
-> > 
-> > Protocolos: *SNMP*
+> > Servidores de Email: *Zimbra*
 > > 
 > > Firewalls: *Blockbit, pfSense, Aker Firewall*
 > > 
