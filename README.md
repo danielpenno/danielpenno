@@ -7,33 +7,37 @@
 
 > 🖖🏾 I am Daniel, I am 26 years old, attending technologist degree in DevOps (2021-2023) at UNOPAR, and have a Technical Course in IT (2009-2012), at Instituto Federal de Educação, Ciência e Tecnologia do Tocantins.
 > 
-> 🆙 Professional with huge experience supporting servers (7 years about). Experience with Linux and Windows systems environments. Have worked with networks and firewalls with on premise environments. Knowledge of DevOps Culture and tools requested in the market.
+> 🆙 Professional with huge experience supporting servers (7 years about). Experience with Linux and Windows systems environments. Have worked with networks and firewalls with on premise environments. Knowledge of DevOps Culture and tools requested in the market. Currently studying: Java, Python, Node.js, PHP.
 > 
 > 💻Knowledge:
 > > 
-> > Hypervisors: *VMware*
+> > SO: *Linux, Windows, MacOS*
 > > 
-> > Public Cloud: *AWS*
+> > Dev: *Shell Scripting, PowerShell, Java, PHP, C*
 > > 
-> > CI/CD: *Jenkins*
-> > 
-> > Orchestration: *Docker, Kubernetes*
-> > 
-> > Monitoring: *Cacti, Grafana, Telegraf, Zabbix*
-> > 
-> > Dev: *PHP, C*
+> > Cloud: *AWS, Azure, GCP*
 > > 
 > > IaC: *Vagrant, Terraform, Ansible, Puppet*
 > > 
-> > Ticket Tools: *SATI (private ticket system, developed by the IT Agency of the Municipality of Palmas)*
+> > Containers: *Docker, Kubernetes*
+> > 
+> > Orchestration: *Docker Swarm, Kubernetes*
+> > 
+> > CI/CD: *Jenkins, GitLab*
+> > 
+> > Monitoring: *Cacti, Grafana, Telegraf, Zabbix*
+> > 
+> > VCS: *Git, GitHub, GitLab*
+> > 
+> > Databases: *MySQL, PostgreSQL*
+> > 
+> > Hypervisors: *VMware*
 > > 
 > > Mail Servers: *Zimbra*
 > > 
 > > Firewalls: *Blockbit, pfSense, Aker Firewall*
 > > 
 > > Web Servers: *Apache, NGINX, IIS*
-> > 
-> > Databases: *MySQL, PostgreSQL*
 > 
 > ✍️ I speak Portuguese and understand English, I can learn quickly and I like to share knowledge.
 > 
@@ -50,33 +54,37 @@
 
 > 🖖🏾 Olá, tenho 26 anos, estou cursando Tecnólogo em DevOps (2021-2023), pela UNOPAR, e possuo Técnico em Informática (2009-2012), pelo Instituto Federal de Educação, Ciência e Tecnologia do Tocantins.
 > 
-> 🆙 Profissional com grande experiência em suporte a servidores (cerca de 7 anos). Experiência com ambientes de sistemas Linux e Windows. Trabalhei com redes e firewalls em ambientes locais. Conhecimento da cultura DevOps e ferramentas solicitadas no mercado. 
+> 🆙 Profissional com grande experiência em suporte a servidores (cerca de 7 anos). Experiência com ambientes de sistemas Linux e Windows. Trabalhei com redes e firewalls em ambientes locais. Conhecimento da cultura DevOps e ferramentas solicitadas no mercado. Atualmente estudando novas linguagens: Java, Python, Node.js, PHP.
 > 
 > 💻Conhecimento:
 > > 
-> > Hypervisors: *VMware*
+> > SO: *Linux, Windows, MacOS*
 > > 
-> > Cloud Pública: *AWS*
+> > Dev: *Shell Scripting, PowerShell, Java, PHP, C*
 > > 
-> > CI/CD: *Jenkins*
-> > 
-> > Orquestração: *Docker, Kubernetes*
-> > 
-> > Monitoramento: *Cacti, Grafana, Telegraf, Zabbix*
-> > 
-> > Dev: *PHP, C*
+> > Cloud: *AWS, Azure, GCP*
 > > 
 > > IaC: *Vagrant, Terraform, Ansible, Puppet*
 > > 
-> > Chamados: *SATI (sistema de chamados desenvolvido pela Agência de Tecnologia da Informação do Município de Palmas)*
+> > Containers: *Docker, Kubernetes*
+> > 
+> > Orquestração: *Docker Swarm, Kubernetes*
+> > 
+> > CI/CD: *Jenkins, GitLab*
+> > 
+> > Monitoramento: *Cacti, Grafana, Telegraf, Zabbix*
+> > 
+> > VCS: *Git, GitHub, GitLab*
+> > 
+> > Banco de Dados: *MySQL, PostgreSQL*
+> > 
+> > Hypervisors: *VMware*
 > > 
 > > Servidores de Email: *Zimbra*
 > > 
 > > Firewalls: *Blockbit, pfSense, Aker Firewall*
 > > 
 > > Servidores Web: *Apache, NGINX, IIS*
-> > 
-> > Banco de Dados: *MySQL, PostgreSQL*
 > 
 > ✍️ Compreendo inglês, consigo aprender as coisas com rapidez e gosto de compartilhar conhecimento.
 > 
