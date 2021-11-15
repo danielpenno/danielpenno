@@ -4,6 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:contato@danielpenno.com)](mailto:contato@danielpenno.com)
 
 <!--START_SECTION:waka-->
+```text
+Python       57 mins         █████████████████████████   99.80 % 
+```
 <!--END_SECTION:waka-->
 
 | <a href="https://github.com/danielpenno"><img align="center" src="https://github-readme-stats.vercel.app/api?username=danielpenno" /></a> | <a href="https://github.com/danielpenno"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpenno&layout=compact" /></a> |
