@@ -7,20 +7,21 @@
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2023%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: America/Araguaina
 
 💬 Programming Languages: 
-Java                     0 secs              █████████████████████████   100.0% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -35,7 +36,7 @@ C                        1 repo              ████████░░░�
 
 
 
- Last Updated on 07/03/2022 04:16:52 UTC
+ Last Updated on 07/03/2022 06:17:18 UTC
 <!--END_SECTION:waka-->
 
 ## 👋 Hi there, welcome to my GitHub! 🚀
