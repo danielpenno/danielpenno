@@ -7,8 +7,6 @@
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2023%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -36,7 +34,7 @@ C                        1 repo              ████████░░░�
 
 
 
- Last Updated on 12/03/2022 02:31:40 UTC
+ Last Updated on 12/03/2022 04:18:03 UTC
 <!--END_SECTION:waka-->
 
 ## 👋 Hi there, welcome to my GitHub! 🚀
