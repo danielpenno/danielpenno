@@ -41,7 +41,7 @@ C                        1 repo              ████████░░░�
 
 ## 👋 Hi there, welcome to my GitHub! 🚀
 
-> 🖖🏾 I am Daniel, I am 26 years old, attending technologist degree in DevOps (2021-2023) at UNOPAR, and have a Technical Course in IT (2009-2012), at Instituto Federal de Educação, Ciência e Tecnologia do Tocantins.
+> 🖖🏾 I am Daniel, I am 27 years old, attending technologist degree in DevOps (2021-2023) at UNOPAR, and have a Technical Course in IT (2009-2012), at Instituto Federal de Educação, Ciência e Tecnologia do Tocantins.
 > 
 > 🆙 Professional with huge experience supporting servers (7 years about). Experience with Linux and Windows systems environments. Have worked with networks and firewalls with on premise environments. Knowledge of DevOps Culture and tools requested in the market. Currently studying: Java, Python, JavaScript, Node.js, PHP.
 > 
@@ -88,7 +88,7 @@ C                        1 repo              ████████░░░�
 
 ## 👋 E aí, bem-vindo(a) ao meu GitHub! 🚀
 
-> 🖖🏾 Olá, tenho 26 anos, estou cursando Tecnólogo em DevOps (2021-2023), pela UNOPAR, e possuo Técnico em Informática (2009-2012), pelo Instituto Federal de Educação, Ciência e Tecnologia do Tocantins.
+> 🖖🏾 Olá, tenho 27 anos, estou cursando Tecnólogo em DevOps (2021-2023), pela UNOPAR, e possuo Técnico em Informática (2009-2012), pelo Instituto Federal de Educação, Ciência e Tecnologia do Tocantins.
 > 
 > 🆙 Profissional com grande experiência em suporte a servidores (cerca de 7 anos). Experiência com ambientes de sistemas Linux e Windows. Trabalhei com redes e firewalls em ambientes locais. Conhecimento da cultura DevOps e ferramentas solicitadas no mercado. Atualmente estudando novas linguagens: Java, Python, JavaScript, Node.js, PHP.
 > 
