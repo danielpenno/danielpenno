@@ -15,13 +15,13 @@
 ⌚︎ Time Zone: America/Araguaina
 
 💬 Programming Languages: 
-C                        13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -36,7 +36,7 @@ C                        1 repo              ████████░░░�
 
 
 
- Last Updated on 22/09/2022 04:12:47 UTC
+ Last Updated on 22/09/2022 06:48:35 UTC
 <!--END_SECTION:waka-->
 
 ## 👋 Hi there, welcome to my GitHub! 🚀
