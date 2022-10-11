@@ -15,15 +15,13 @@
 ⌚︎ Time Zone: America/Araguaina
 
 💬 Programming Languages: 
-Python                   18 mins             ███████████████████░░░░░░   78.86% 
-SQL                      5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.85% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -38,7 +36,7 @@ C                        1 repo              ████████░░░�
 
 
 
- Last Updated on 11/10/2022 04:09:45 UTC
+ Last Updated on 11/10/2022 06:41:00 UTC
 <!--END_SECTION:waka-->
 
 ## 👋 Hi there, welcome to my GitHub! 🚀
