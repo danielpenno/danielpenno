@@ -15,13 +15,13 @@
 🕑︎ Time Zone: America/Araguaina
 
 💬 Programming Languages: 
-JSON                     2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -35,7 +35,7 @@ Java                     1 repo              ████████░░░�
 
 
 
- Last Updated on 26/02/2023 04:14:33 UTC
+ Last Updated on 26/02/2023 06:15:36 UTC
 <!--END_SECTION:waka-->
 
 ## 👋 Hi there, welcome to my GitHub! 🚀
