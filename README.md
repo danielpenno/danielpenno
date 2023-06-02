@@ -81,7 +81,7 @@ Java                     1 repo              ████████░░░�
 > 
 > 🏖 In my leisure time, I constantly seek knowledge and also have fun with online games, haha.
 >
-✨ I am constantly looking for new challenges and opportunities to apply my knowledge and skills efficiently and innovatively. If you are looking for a committed professional, passionate about technology and ready to face new challenges, I am available to contribute to your team.
+> ✨ I am constantly looking for new challenges and opportunities to apply my knowledge and skills efficiently and innovatively. If you are looking for a committed professional, passionate about technology and ready to face new challenges, I am available to contribute to your team.
 >
 > 📧 Let's talk? Feel free to add me or contact me
 > 
