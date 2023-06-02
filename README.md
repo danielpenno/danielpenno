@@ -41,7 +41,7 @@ Java                     1 repo              ████████░░░�
 
 ## 👋 Hi there, welcome to my GitHub! 🚀
 
-> 🖖🏾 I am Daniel, I am 27 years old. Currently, I am studying Postgraduate in Network Administration (2023) at Faculdade Focus. I also have a technologist degree in DevOps (2021-2023) at UNOPAR, and have a Technical Course in IT (2009-2012), at Instituto Federal de Educação, Ciência e Tecnologia do Tocantins.
+> 🖖🏾 I am Daniel, I am 27 years old. Currently, attending to Specialization in Network Administration (2023) at Faculdade Focus. I also have a technologist degree in DevOps (2021-2023) at UNOPAR, and have a Technical Course in IT (2009-2012), at Instituto Federal de Educação, Ciência e Tecnologia do Tocantins.
 > 
 > 🆙 As a professional, I have accumulated extensive experience in server support, with about 9 years of experience in this area. I have expertise in Linux and Windows system environments, in addition to having worked with networks and firewalls in local environments. I have solid knowledge of the DevOps culture and the tools most requested by the market.
 > 
