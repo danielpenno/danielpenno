@@ -41,9 +41,11 @@ Java                     1 repo              ████████░░░�
 
 ## 👋 Hi there, welcome to my GitHub! 🚀
 
-> 🖖🏾 I am Daniel, I am 27 years old, attending technologist degree in DevOps (2021-2023) at UNOPAR, and have a Technical Course in IT (2009-2012), at Instituto Federal de Educação, Ciência e Tecnologia do Tocantins.
+> 🖖🏾 I am Daniel, I am 27 years old. Currently, I am studying Postgraduate in Network Administration (2023) at Faculdade Focus. I also have a technologist degree in DevOps (2021-2023) at UNOPAR, and have a Technical Course in IT (2009-2012), at Instituto Federal de Educação, Ciência e Tecnologia do Tocantins.
 > 
-> 🆙 Professional with huge experience supporting servers (9 years about). Experience with Linux and Windows systems environments. Have worked with networks and firewalls with on premise environments. Knowledge of DevOps Culture and tools requested in the market. Currently studying: Java, Python, JavaScript, Node.js, PHP.
+> 🆙 As a professional, I have accumulated extensive experience in server support, with about 9 years of experience in this area. I have expertise in Linux and Windows system environments, in addition to having worked with networks and firewalls in local environments. I have solid knowledge of the DevOps culture and the tools most requested by the market.
+> 
+> 📚 Currently, I am dedicated to expanding my knowledge in new languages, such as Java, Python, JavaScript, Node.js and PHP, through continuous studies and practices.
 > 
 > 💻Knowledge:
 > > 
@@ -75,11 +77,13 @@ Java                     1 repo              ████████░░░�
 > > 
 > > Web Servers: *Apache, NGINX, IIS*
 > 
-> ✍️ I speak Portuguese and understand English, I can learn quickly and I like to share knowledge.
+> ✍️ I am a fast learner, have solid knowledge sharing skills and am proficient in English.
 > 
-> 🏖 In my free time I like to seek knowledge and also have fun (online games, haha).
->  
-> 📧 Shall we have a chat? Feel free to add me or contact.
+> 🏖 In my leisure time, I constantly seek knowledge and also have fun with online games, haha.
+>
+✨ I am constantly looking for new challenges and opportunities to apply my knowledge and skills efficiently and innovatively. If you are looking for a committed professional, passionate about technology and ready to face new challenges, I am available to contribute to your team.
+>
+> 📧 Let's talk? Feel free to add me or contact me
 > 
 > 📌 From Palmas - Tocantins, Brazil
 > 
@@ -88,9 +92,11 @@ Java                     1 repo              ████████░░░�
 
 ## 👋 E aí, bem-vindo(a) ao meu GitHub! 🚀
 
-> 🖖🏾 Olá, tenho 27 anos, estou cursando Tecnólogo em DevOps (2021-2023), pela UNOPAR, e possuo Técnico em Informática (2009-2012), pelo Instituto Federal de Educação, Ciência e Tecnologia do Tocantins.
+> 🖖🏾 Olá, tenho 27 anos. Atualmente, estou cursando Pós-graduação em Administração de Redes (2023) na Faculdade Focus. Também possuo formação em Tecnólogo em DevOps (2021-2023) pela UNOPAR e em Técnico em Informática (2009-2012) pelo Instituto Federal de Educação, Ciência e Tecnologia do Tocantins.
 > 
-> 🆙 Profissional com grande experiência em suporte a servidores (cerca de 97 anos). Experiência com ambientes de sistemas Linux e Windows. Trabalhei com redes e firewalls em ambientes locais. Conhecimento da cultura DevOps e ferramentas solicitadas no mercado. Atualmente estudando novas linguagens: Java, Python, JavaScript, Node.js, PHP.
+> 🆙 Como profissional, acumulei uma ampla experiência em suporte a servidores, com cerca de 9 anos de atuação nessa área. Tenho expertise em ambientes de sistemas Linux e Windows, além de ter trabalhado com redes e firewalls em ambientes locais. Possuo conhecimento sólido da cultura DevOps e das ferramentas mais requisitadas pelo mercado.
+> 
+> 📚 Atualmente, estou dedicado a expandir meu conhecimento em novas linguagens, como Java, Python, JavaScript, Node.js e PHP, através de estudos e práticas contínuas.
 > 
 > 💻Conhecimento:
 > > 
@@ -122,11 +128,13 @@ Java                     1 repo              ████████░░░�
 > > 
 > > Servidores Web: *Apache, NGINX, IIS*
 > 
-> ✍️ Compreendo inglês, consigo aprender as coisas com rapidez e gosto de compartilhar conhecimento.
+> ✍️ Sou um aprendiz rápido, tenho habilidades sólidas em compartilhar conhecimento e sou proficiente em inglês.
 > 
-> 🏖 No meu tempo livre gosto de procurar conhecimento e também me divertir (jogos online, haha).
+> 🏖 Nos meus momentos de lazer, busco constantemente conhecimento e também me divirto com jogos online, haha.
 > 
-> 📧 Vamos bater um papo? Fique à vontade para me adicionar ou entrar em contato.
+> ✨ Estou em constante busca por novos desafios e oportunidades para aplicar meu conhecimento e habilidades de forma eficiente e inovadora. Se você procura um profissional comprometido, apaixonado pela área de tecnologia e pronto para enfrentar novos desafios, estou à disposição para contribuir com sua equipe.
+> 
+> 📧 Vamos conversar? Fique à vontade para me adicionar ou entrar em contato.
 > 
 > 📌 Palmas - Tocantins, Brasil
 > 
