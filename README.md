@@ -15,14 +15,13 @@
 🕑︎ Time Zone: America/Araguaina
 
 💬 Programming Languages: 
-Batchfile                8 mins              ██████████████████████░░░   86.34 % 
-Text                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -36,7 +35,7 @@ Java                     1 repo              ████████░░░�
 
 
 
- Last Updated on 06/06/2023 04:18:14 UTC
+ Last Updated on 06/06/2023 06:19:44 UTC
 <!--END_SECTION:waka-->
 
 ## 👋 Hi there, welcome to my GitHub! 🚀
