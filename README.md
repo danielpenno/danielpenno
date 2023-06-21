@@ -40,7 +40,7 @@ Java                     1 repo              ████████░░░�
 
 ## 👋 Hi there, welcome to my GitHub! 🚀
 
-> 🖖🏾 I am Daniel, I am 27 years old. Currently, attending to Specialization in Network Administration (2023) at Faculdade Focus. I also have a technologist degree in DevOps (2021-2023) at UNOPAR, and have a Technical Course in IT (2009-2012), at Instituto Federal de Educação, Ciência e Tecnologia do Tocantins.
+> 🖖🏾 I'm Daniel, I'm 27 years old. Currently, attending to Specialization in Network Administration (2023) at Faculdade Focus. I also have a technologist degree in DevOps (2021-2023) at UNOPAR, and have a Technical Course in IT (2009-2012), at Instituto Federal de Educação, Ciência e Tecnologia do Tocantins.
 > 
 > 🆙 As a professional, I have accumulated extensive experience in server support, with about 9 years of experience in this area. I have expertise in Linux and Windows system environments, in addition to having worked with networks and firewalls in local environments. I have solid knowledge of the DevOps culture and the tools most requested by the market.
 > 
@@ -76,11 +76,11 @@ Java                     1 repo              ████████░░░�
 > > 
 > > Web Servers: *Apache, NGINX, IIS*
 > 
-> ✍️ I am a fast learner, have solid knowledge sharing skills and am proficient in English.
+> ✍️ I'm a quick learner, I have strong skills in knowledge sharing, and I'm proficient in English with advanced proficiency.
 > 
 > 🏖 In my leisure time, I constantly seek knowledge and also have fun with online games, haha.
 >
-> ✨ I am constantly looking for new challenges and opportunities to apply my knowledge and skills efficiently and innovatively. If you are looking for a committed professional, passionate about technology and ready to face new challenges, I am available to contribute to your team.
+> ✨ I'm constantly looking for new challenges and opportunities to apply my knowledge and skills efficiently and innovatively. If you are looking for a committed professional, passionate about technology and ready to face new challenges, I am available to contribute to your team.
 >
 > 📧 Let's talk? Feel free to add me or contact me
 > 
@@ -127,7 +127,7 @@ Java                     1 repo              ████████░░░�
 > > 
 > > Servidores Web: *Apache, NGINX, IIS*
 > 
-> ✍️ Sou um aprendiz rápido, tenho habilidades sólidas em compartilhar conhecimento e sou proficiente em inglês.
+> ✍️ Sou um aprendiz rápido, possuo habilidades sólidas em compartilhar conhecimento e possuo um conhecimento avançado na língua inglesa.
 > 
 > 🏖 Nos meus momentos de lazer, busco constantemente conhecimento e também me divirto com jogos online, haha.
 > 
