@@ -15,15 +15,13 @@
 🕑︎ Time Zone: America/Araguaina
 
 💬 Programming Languages: 
-YAML                     1 min               ████████████████████░░░░░   80.03 % 
-JSON                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-INI                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -37,7 +35,7 @@ Java                     1 repo              ████████░░░�
 
 
 
- Last Updated on 29/09/2023 04:18:37 UTC
+ Last Updated on 29/09/2023 06:20:21 UTC
 <!--END_SECTION:waka-->
 
 ## 👋 Hi there, welcome to my GitHub! 🚀
