@@ -7,7 +7,7 @@
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2040%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -35,7 +35,7 @@ Java                     1 repo              ████████░░░�
 
 
 
- Last Updated on 02/10/2023 10:17:00 UTC
+ Last Updated on 02/10/2023 12:31:09 UTC
 <!--END_SECTION:waka-->
 
 ## 👋 Hi there, welcome to my GitHub! 🚀
