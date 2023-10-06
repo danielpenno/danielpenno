@@ -91,7 +91,7 @@ Java                     1 repo              ████████░░░�
 
 ## 👋 E aí, bem-vindo(a) ao meu GitHub! 🚀
 
-> 🖖🏾 Olá, tenho 28 anos. Possuo Pós-graduação em Administração de Redes (2023) na Faculdade Focus. Também possuo formação em Tecnólogo em DevOps (2021-2023) pela UNOPAR e em Técnico em Informática (2009-2012) pelo Instituto Federal de Educação, Ciência e Tecnologia do Tocantins.
+> 🖖🏾 Olá, tenho 28 anos. Possuo Pós-graduação em Administração de Redes (2023) pela Faculdade Focus. Também possuo formação em Tecnólogo em DevOps (2021-2023) pela UNOPAR e em Técnico em Informática (2009-2012) pelo Instituto Federal de Educação, Ciência e Tecnologia do Tocantins.
 > 
 > 🆙 Como profissional, acumulei uma ampla experiência em suporte a servidores, com cerca de 9 anos de atuação nessa área. Tenho expertise em ambientes de sistemas Linux e Windows, além de ter trabalhado com redes e firewalls em ambientes locais. Possuo conhecimento sólido da cultura DevOps e das ferramentas mais requisitadas pelo mercado.
 > 
