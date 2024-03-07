@@ -9,8 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other    0 secs          █████████████▒░░░░░░░░░░░   52.93 %
-Python   0 secs          ███████████▓░░░░░░░░░░░░░   47.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
