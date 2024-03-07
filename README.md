@@ -16,7 +16,7 @@ No activity tracked
 
 ## 👋 Hi there, welcome to my GitHub! 🚀
 
-> 🖖🏾 I'm Daniel, I'm 28 years old. I have a Specialization in Network Administration (2023) at Faculdade Focus. I also have a technologist degree in DevOps (2021-2023) at UNOPAR, and have a Technical Course in IT (2009-2012), at Instituto Federal de Educação, Ciência e Tecnologia do Tocantins.
+> 🖖🏾 I'm Daniel, I'm 28 years old. I have a Specialization in Public Administration (2024) and Network Administration (2023) at Faculdade Focus. I also have a technologist degree in DevOps (2021-2023) at UNOPAR, and have a Technical Course in IT (2009-2012), at Instituto Federal de Educação, Ciência e Tecnologia do Tocantins.
 > 
 > 🆙 As a professional, I have accumulated extensive experience in server support, with about 9 years of experience in this area. I have expertise in Linux and Windows system environments, in addition to having worked with networks and firewalls in local environments. I have solid knowledge of the DevOps culture and the tools most requested by the market.
 > 
@@ -67,7 +67,7 @@ No activity tracked
 
 ## 👋 E aí, bem-vindo(a) ao meu GitHub! 🚀
 
-> 🖖🏾 Olá, tenho 28 anos. Possuo Pós-graduação em Administração de Redes (2023) pela Faculdade Focus. Também possuo formação em Tecnólogo em DevOps (2021-2023) pela UNOPAR e em Técnico em Informática (2009-2012) pelo Instituto Federal de Educação, Ciência e Tecnologia do Tocantins.
+> 🖖🏾 Olá, tenho 28 anos. Possuo Pós-graduação em Administração Pública (2024) e Administração de Redes (2023). Também possuo formação em Tecnólogo em DevOps (2021-2023) pela UNOPAR e em Técnico em Informática (2009-2012) pelo Instituto Federal de Educação, Ciência e Tecnologia do Tocantins.
 > 
 > 🆙 Como profissional, acumulei uma ampla experiência em suporte a servidores, com cerca de 9 anos de atuação nessa área. Tenho expertise em ambientes de sistemas Linux e Windows, além de ter trabalhado com redes e firewalls em ambientes locais. Possuo conhecimento sólido da cultura DevOps e das ferramentas mais requisitadas pelo mercado.
 > 
