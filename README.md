@@ -9,7 +9,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SQL   1 hr 35 mins    █████████████████████████   100.00 %
+SQL      1 hr 35 mins    ████████████▓░░░░░░░░░░░░   50.93 %
+Python   1 hr 32 mins    ████████████▒░░░░░░░░░░░░   49.07 %
 ```
 
 <!--END_SECTION:waka-->
