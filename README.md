@@ -58,7 +58,7 @@ No activity tracked
 >
 > ✨ I'm constantly looking for new challenges and opportunities to apply my knowledge and skills efficiently and innovatively. If you are looking for a committed professional, passionate about technology and ready to face new challenges, I am available to contribute to your team.
 >
-> 📧 Let's talk? Feel free to add me or contact me
+> 📧 Let's talk? Feel free to add me or contact me.
 > 
 > 📌 From Palmas - Tocantins, Brazil
 > 
@@ -67,47 +67,57 @@ No activity tracked
 
 ## 👋 E aí, bem-vindo(a) ao meu GitHub! 🚀
 
-> 🖖🏾 Olá, tenho 29 anos. Possuo Pós-graduação em Administração Pública (2024) e Administração de Redes (2023). Também possuo formação em Tecnólogo em DevOps (2021-2023) e em Técnico em Informática (2009-2012).
+> 🖖🏾 Olá! Tenho 29 anos e uma trajetória acadêmica que inclui uma Pós-graduação em Administração Pública (2024) e outra em Administração de Redes (2023). Também me formei como Tecnólogo em DevOps (2021-2023) e Técnico em Informática (2009-2012).
 > 
-> 🆙 Como profissional, acumulei uma ampla experiência em suporte a servidores, com cerca de 10 anos de atuação nessa área. Tenho expertise em ambientes de sistemas Linux e Windows, além de ter trabalhado com redes e firewalls em ambientes locais. Possuo conhecimento sólido da cultura DevOps e das ferramentas mais requisitadas pelo mercado.
+> 🆙 No campo profissional, acumulo cerca de 10 anos de experiência em suporte a servidores, com especialização em ambientes Linux e Windows. Também tenho uma sólida bagagem em redes e firewalls em ambientes locais. Além disso, tenho conhecimento da cultura DevOps e das ferramentas mais procuradas pelo mercado.
 > 
-> 📚 Atualmente, estou dedicado a expandir meu conhecimento em novas linguagens, como Java, Python, JavaScript, Node.js e PHP, através de estudos e práticas contínuas.
-> 
-> 💻Conhecimento:
+> 💻 Conhecimentos Técnicos:
 > > 
 > > SO: *Linux, Windows, MacOS*
 > > 
-> > Dev: *Shell Scripting, PowerShell, Java, Python, C, PHP*
+> > Linguagens: *Shell Scripting, PowerShell, Java, Python, C, PHP*
 > > 
-> > Cloud: *AWS, Azure, GCP*
+> > Nuvem: *AWS, Azure, GCP*
 > > 
 > > IaC: *Vagrant, Terraform, Ansible, Puppet*
 > > 
-> > Containers: *Docker, Kubernetes*
-> > 
-> > Orquestração: *Docker Swarm, Kubernetes*
+> > Contêineres: *Docker, Kubernetes*
 > > 
 > > CI/CD: *Jenkins, GitLab*
 > > 
 > > Monitoramento: *Cacti, Grafana, Telegraf, Zabbix*
 > > 
-> > VCS: *Git, GitHub, GitLab*
+> > Versionamento: *Git, GitHub, GitLab*
 > > 
-> > Banco de Dados: *MySQL, PostgreSQL, MSSQL*
+> > Bancos: *MySQL, PostgreSQL, MSSQL*
 > > 
-> > Hypervisors: *VMware*
+> > Virtualização: *VMware, Hyper-V*
 > > 
-> > Servidores de Email: *Zimbra*
+> > Colaboração: *Zimbra, Owncloud*
 > > 
-> > Firewalls: *Blockbit, pfSense, Aker Firewall*
+> > Gestão: *SESuite, Docflow, BPM*
 > > 
-> > Servidores Web: *Apache, NGINX, IIS*
+> > Ágil: *OKR, Kanban, Scrum*
+> >
+> > Segurança: *Blockbit, pfSense, Aker Firewall*
+> >
+> > Web: *Apache, nginx, IIS*
+> > 
+> > Redes: *Unifi*
+> >
+> > ERP: *RM*
+> > 
+> > Helpdesk: *GLPI*
+> > 
+> > Compliance: *LGPD*
+> > 
+> > Impressão: *Papercut*
 > 
-> ✍️ Sou um aprendiz rápido, possuo habilidades sólidas em compartilhar conhecimento e possuo um conhecimento avançado na língua inglesa.
+> ✍️ Sou um eterno aprendiz, daqueles que pegam as coisas rápido e adoram compartilhar o que sabem. Meu inglês é afiado, o que facilita na hora de aprender e ensinar.
 > 
-> 🏖 Nos meus momentos de lazer, busco constantemente conhecimento e também me divirto com jogos online, haha.
+> 🏖 No tempo livre? Estou sempre em busca de conhecimento, mas também gosto de relaxar com uns jogos online, afinal, todo mundo merece um pouco de diversão, né?
 > 
-> ✨ Estou em constante busca por novos desafios e oportunidades para aplicar meu conhecimento e habilidades de forma eficiente e inovadora. Se você procura um profissional comprometido, apaixonado pela área de tecnologia e pronto para enfrentar novos desafios, estou à disposição para contribuir com sua equipe.
+> ✨ Estou sempre à procura de novos desafios. Quero aplicar minhas habilidades e conhecimento de forma inovadora e eficiente. Se você está buscando alguém comprometido, apaixonado por tecnologia e pronto para encarar novos desafios, eu sou a pessoa certa para a sua equipe.
 > 
 > 📧 Vamos conversar? Fique à vontade para me adicionar ou entrar em contato.
 > 
