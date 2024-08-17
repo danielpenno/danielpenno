@@ -16,49 +16,59 @@ No activity tracked
 
 ## 👋 Hi there, welcome to my GitHub! 🚀
 
-> 🖖🏾 I'm Daniel, I'm 29 years old. I have a Specialization in Public Administration (2024) and Network Administration (2023) at Faculdade Focus. I also have a technologist degree in DevOps (2021-2023) and have a Technical Course in IT (2009-2012).
+> 🖖🏾 Hi there! I'm 29 years old with an academic background that includes a Specialization in Public Administration (2024) and another in Network Administration (2023). I also hold a technologist degree in DevOps (2021-2023) and have a Technical Course in IT (2009-2012).
 > 
-> 🆙 As a professional, I have accumulated extensive experience in server support, with about 10 years of experience in this area. I have expertise in Linux and Windows system environments, in addition to having worked with networks and firewalls in local environments. I have solid knowledge of the DevOps culture and the tools most requested by the market.
+> 🆙 Professionally, I have around 10 years of experience in server support, specializing in Linux and Windows environments. I also have a strong background in networks and firewalls in local environments. Additionally, I'm well-versed in DevOps culture and the most in-demand tools in the market.
 > 
-> 📚 Currently, I am dedicated to expanding my knowledge in new languages, such as Java, Python, JavaScript, Node.js and PHP, through continuous studies and practices.
-> 
-> 💻Knowledge:
+> 💻 Technical Knowledge:
 > > 
-> > SO: *Linux, Windows, MacOS*
-> > 
-> > Dev: *Shell Scripting, PowerShell, Java, Python, C, PHP*
+> > OS: Linux, *Windows, MacOS*
+> >
+> > Languages: *Shell Scripting, PowerShell, Java, Python, C, PHP*
 > > 
 > > Cloud: *AWS, Azure, GCP*
 > > 
 > > IaC: *Vagrant, Terraform, Ansible, Puppet*
-> > 
+> >
 > > Containers: *Docker, Kubernetes*
-> > 
-> > Orchestration: *Docker Swarm, Kubernetes*
 > > 
 > > CI/CD: *Jenkins, GitLab*
 > > 
 > > Monitoring: *Cacti, Grafana, Telegraf, Zabbix*
 > > 
-> > VCS: *Git, GitHub, GitLab*
+> > Version Control: *Git, GitHub, GitLab*
 > > 
 > > Databases: *MySQL, PostgreSQL, MSSQL*
 > > 
-> > Hypervisors: *VMware*
+> > Virtualization: *VMware, Hyper-V*
 > > 
-> > Mail Servers: *Zimbra*
+> > Collaboration: *Zimbra, Owncloud*
 > > 
-> > Firewalls: *Blockbit, pfSense, Aker Firewall*
+> > Management: *SESuite, Docflow, BPM*
 > > 
-> > Web Servers: *Apache, NGINX, IIS*
+> > Agile: *OKR, Kanban, Scrum*
+> > 
+> > Security: *Blockbit, pfSense, Aker Firewall*
+> > 
+> > Web: *Apache, nginx, IIS*
+> > 
+> > Networks: Unifi*
+> > 
+> > ERP: *RM*
+> > 
+> > Helpdesk: *GLPI*
+> > 
+> > Compliance: *LGPD*
+> > 
+> > Printing: *Papercut*
 > 
-> ✍️ I'm a quick learner, I have strong skills in knowledge sharing, and I'm proficient in English with advanced proficiency.
+> ✍️ I'm a lifelong learner, quick to pick things up and love sharing what I know. My English is sharp, making it easier to learn and teach.
 > 
-> 🏖 In my leisure time, I constantly seek knowledge and also have fun with online games, haha.
+> 🏖 In my free time? I'm always seeking knowledge, but I also like to unwind with some online games, because everyone deserves a bit of fun, right?
 >
-> ✨ I'm constantly looking for new challenges and opportunities to apply my knowledge and skills efficiently and innovatively. If you are looking for a committed professional, passionate about technology and ready to face new challenges, I am available to contribute to your team.
+> ✨ I'm always on the lookout for new challenges. I'm eager to apply my skills and knowledge in innovative and efficient ways. If you're looking for someone committed, passionate about technology, and ready to tackle new challenges, I'm your person.
 >
-> 📧 Let's talk? Feel free to add me or contact me.
+> 📧 Let’s talk! Feel free to add or contact me.
 > 
 > 📌 From Palmas - Tocantins, Brazil
 > 
