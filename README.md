@@ -52,7 +52,7 @@ No activity tracked
 > > 
 > > Web: *Apache, nginx, IIS*
 > > 
-> > Networks: Unifi*
+> > Networks: *Unifi*
 > > 
 > > ERP: *RM*
 > > 
