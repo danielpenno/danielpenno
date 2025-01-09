@@ -72,8 +72,6 @@ No activity tracked
 > 
 > 📌 From Palmas - Tocantins, Brazil
 > 
-> 👉 Please, visit https://danielpenno.com
-> 
 
 ## 👋 E aí, bem-vindo(a) ao meu GitHub! 🚀
 
@@ -133,4 +131,3 @@ No activity tracked
 > 
 > 📌 Palmas - Tocantins, Brasil
 > 
-> 👉 Visite https://danielpenno.com
