@@ -1,7 +1,7 @@
 # Daniel Pennno
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielpenno/)](https://www.linkedin.com/in/danielpenno/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:contato@danielpenno.com)](mailto:contato@danielpenno.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:danielpenno@gmail.com)](mailto:danielpenno@gmail.com)
 
 | <a href="https://github.com/danielpenno"><img align="center" src="https://github-readme-stats.vercel.app/api?username=danielpenno" /></a> | <a href="https://github.com/danielpenno"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpenno&layout=compact" /></a> |
 | ------------- | ------------- |
@@ -14,120 +14,126 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-## 👋 Hi there, welcome to my GitHub! 🚀
+## 👋 Hey there, welcome to my GitHub! 🚀
 
-> 🖖🏾 Hi there! I'm 29 years old with an academic background that includes a Specialization in Public Administration (2024) and another in Network Administration (2023). I also hold a technologist degree in DevOps (2021-2023) and have a Technical Course in IT (2009-2012).
-> 
-> 🆙 Professionally, I have around 10 years of experience in server support, specializing in Linux and Windows environments. I also have a strong background in networks and firewalls in local environments. Additionally, I'm well-versed in DevOps culture and the most in-demand tools in the market.
-> 
-> 💻 Technical Knowledge:
-> > 
-> > OS: Linux, *Windows, MacOS*
-> >
-> > Languages: *Shell Scripting, PowerShell, Java, Python, C, PHP*
-> > 
-> > Cloud: *AWS, Azure, GCP*
-> > 
-> > IaC: *Vagrant, Terraform, Ansible, Puppet*
-> >
-> > Containers: *Docker, Kubernetes*
-> > 
-> > CI/CD: *Jenkins, GitLab*
-> > 
-> > Monitoring: *Cacti, Grafana, Telegraf, Zabbix*
-> > 
-> > Version Control: *Git, GitHub, GitLab*
-> > 
-> > Databases: *MySQL, PostgreSQL, MSSQL*
-> > 
-> > Virtualization: *VMware, Hyper-V*
-> > 
-> > Collaboration: *Zimbra, Owncloud*
-> > 
-> > Management: *SESuite, Docflow, BPM*
-> > 
-> > Agile: *OKR, Kanban, Scrum*
-> > 
-> > Security: *Blockbit, pfSense, Aker Firewall*
-> > 
-> > Web: *Apache, nginx, IIS*
-> > 
-> > Networks: *Unifi*
-> > 
-> > ERP: *RM*
-> > 
-> > Helpdesk: *GLPI*
-> > 
-> > Compliance: *LGPD*
-> > 
-> > Printing: *Papercut*
-> 
-> ✍️ I'm a lifelong learner, quick to pick things up and love sharing what I know. My English is sharp, making it easier to learn and teach.
-> 
-> 🏖 In my free time? I'm always seeking knowledge, but I also like to unwind with some online games, because everyone deserves a bit of fun, right?
->
-> ✨ I'm always on the lookout for new challenges. I'm eager to apply my skills and knowledge in innovative and efficient ways. If you're looking for someone committed, passionate about technology, and ready to tackle new challenges, I'm your person.
->
-> 📧 Let’s talk! Feel free to add or contact me.
-> 
-> 📌 From Palmas - Tocantins, Brazil
-> 
+🖐️ Hi! I'm Daniel, an **IT Infrastructure and Technology Professional** with over **10 years of experience** in **server support**, **networks**, **security**, and **critical environments**.
+
+---
+
+### 🎓 Academic Background:
+
+- Postgraduate Degree in Risk Management and Cybersecurity (2025)  
+- Postgraduate Degree in Public Administration (2024)  
+- Postgraduate Degree in Network Administration (2023)  
+- Technologist Degree in DevOps (2021-2023)  
+- Technical Degree in IT (2009-2012)  
+
+---
+
+### 💡 About Me:
+
+What defines me? **Problem-solving**, **quick adaptation**, and a **strong focus on delivering results**.
+
+I have a **solid technical foundation**, with experience in **Linux** and **Windows** environments, as well as **Cloud (AWS, Azure, GCP)**, **virtualization (VMware, Hyper-V)**, **networks**, **information security**, and **DevOps practices**.
+
+---
+
+### 🔧 Key Technical Skills:
+
+- **Operating Systems:** Linux, Windows, MacOS  
+- **Cloud:** AWS, Azure, GCP  
+- **Infrastructure as Code (IaC):** Terraform, Ansible, Vagrant, Puppet  
+- **Containers and Orchestration:** Docker, Kubernetes  
+- **CI/CD:** Jenkins, GitLab  
+- **Monitoring:** Zabbix, Grafana, Telegraf, Cacti  
+- **Networking and Security:** Unifi, Blockbit, pfSense, Aker Firewall  
+- **Languages:** Shell Script, PowerShell, Java, Python, PHP, C  
+- **Web Servers:** Apache, NGINX, IIS  
+- **Version Control:** Git, GitLab, GitHub  
+- **Databases:** MySQL, PostgreSQL, MSSQL  
+- **Management and Processes:** OKR, Kanban, Scrum, SESuite, BPM, Docflow  
+- **Compliance:** LGPD  
+- **Others:** Zimbra, OwnCloud, Papercut, GLPI, RM (ERP)  
+
+---
+
+### 🌱 Professional Profile:
+
+I’m **self-taught**, quick to learn new technologies, and passionate about **sharing knowledge with the team**.
+
+🗣️ **English Level:** Advanced technical reading and writing, mainly for **documentation**, **troubleshooting**, and **learning purposes**.
+
+---
+
+### 🚀 What I’m Looking For:
+
+I’m open to opportunities in **Infrastructure**, **Cloud**, **DevOps**, and **Technology** in general.  
+I enjoy **challenging environments** where I can **apply my experience**, **learn more**, and **create real impact**.
+
+---
+
+📩 Let’s connect!  
+📌 [LinkedIn](https://www.linkedin.com/in/danielpenno) | [danielpenno@gmail.com](mailto:danielpenno@gmail.com)  
+📍 Palmas - Tocantins, Brazil
 
 ## 👋 E aí, bem-vindo(a) ao meu GitHub! 🚀
 
-> 🖖🏾 Olá! Tenho 29 anos e uma trajetória acadêmica que inclui uma Pós-graduação em Administração Pública (2024) e outra em Administração de Redes (2023). Também me formei como Tecnólogo em DevOps (2021-2023) e Técnico em Informática (2009-2012).
-> 
-> 🆙 No campo profissional, acumulo cerca de 10 anos de experiência em suporte a servidores, com especialização em ambientes Linux e Windows. Também tenho uma sólida bagagem em redes e firewalls em ambientes locais. Além disso, tenho conhecimento da cultura DevOps e das ferramentas mais procuradas pelo mercado.
-> 
-> 💻 Conhecimentos Técnicos:
-> > 
-> > SO: *Linux, Windows, MacOS*
-> > 
-> > Linguagens: *Shell Scripting, PowerShell, Java, Python, C, PHP*
-> > 
-> > Nuvem: *AWS, Azure, GCP*
-> > 
-> > IaC: *Vagrant, Terraform, Ansible, Puppet*
-> > 
-> > Contêineres: *Docker, Kubernetes*
-> > 
-> > CI/CD: *Jenkins, GitLab*
-> > 
-> > Monitoramento: *Cacti, Grafana, Telegraf, Zabbix*
-> > 
-> > Versionamento: *Git, GitHub, GitLab*
-> > 
-> > Bancos: *MySQL, PostgreSQL, MSSQL*
-> > 
-> > Virtualização: *VMware, Hyper-V*
-> > 
-> > Colaboração: *Zimbra, Owncloud*
-> > 
-> > Gestão: *SESuite, Docflow, BPM*
-> > 
-> > Ágil: *OKR, Kanban, Scrum*
-> >
-> > Segurança: *Blockbit, pfSense, Aker Firewall*
-> >
-> > Web: *Apache, nginx, IIS*
-> > 
-> > Redes: *Unifi*
-> >
-> > ERP: *RM*
-> > 
-> > Helpdesk: *GLPI*
-> > 
-> > Compliance: *LGPD*
-> > 
-> > Impressão: *Papercut*
-> 
-> ✍️ Sou um eterno aprendiz, daqueles que pegam as coisas rápido e adoram compartilhar o que sabem. Meu inglês é afiado, o que facilita na hora de aprender e ensinar.
-> 
-> 🏖 No tempo livre? Estou sempre em busca de conhecimento, mas também gosto de relaxar com uns jogos online, afinal, todo mundo merece um pouco de diversão, né?
-> 
-> ✨ Estou sempre à procura de novos desafios. Quero aplicar minhas habilidades e conhecimento de forma inovadora e eficiente. Se você está buscando alguém comprometido, apaixonado por tecnologia e pronto para encarar novos desafios, eu sou a pessoa certa para a sua equipe.
-> 
-> 📧 Vamos conversar? Fique à vontade para me adicionar ou entrar em contato.
-> 
-> 📌 Palmas - Tocantins, Brasil
-> 
+🖐️ Olá! Sou o Daniel, profissional de **Infraestrutura e TI** com mais de **10 anos de experiência** em **suporte a servidores**, **redes**, **segurança** e **ambientes críticos**.
+
+---
+
+### 🎓 Formação Acadêmica:
+
+- Pós-graduação em Gestão de Riscos e Cibersegurança (2025)  
+- Pós-graduação em Administração Pública (2024)  
+- Pós-graduação em Administração de Redes (2023)  
+- Tecnólogo em DevOps (2021-2023)  
+- Técnico em Informática (2009-2012)  
+
+---
+
+### 💡 Sobre mim:
+
+O que me define? **Resolução de problemas**, **adaptação rápida** e **foco em entregar resultados**.
+
+Tenho uma **sólida base técnica**, com atuação em ambientes **Linux** e **Windows**, além de experiência com **Cloud (AWS, Azure, GCP)**, **virtualização (VMware, Hyper-V)**, **redes**, **segurança da informação** e práticas **DevOps**.
+
+---
+
+### 🔧 Principais Conhecimentos Técnicos:
+
+- **Sistemas Operacionais:** Linux, Windows, MacOS  
+- **Cloud:** AWS, Azure, GCP  
+- **Infraestrutura como Código (IaC):** Terraform, Ansible, Vagrant, Puppet  
+- **Containers e Orquestração:** Docker, Kubernetes  
+- **CI/CD:** Jenkins, GitLab  
+- **Monitoramento:** Zabbix, Grafana, Telegraf, Cacti  
+- **Redes e Segurança:** Unifi, Blockbit, pfSense, Aker Firewall  
+- **Linguagens:** Shell Script, PowerShell, Java, Python, PHP, C  
+- **Web Servers:** Apache, NGINX, IIS  
+- **Versionamento:** Git, GitLab, GitHub  
+- **Bancos de Dados:** MySQL, PostgreSQL, MSSQL  
+- **Gestão e Processos:** OKR, Kanban, Scrum, SESuite, BPM, Docflow  
+- **Compliance:** LGPD  
+- **Outros:** Zimbra, OwnCloud, Papercut, GLPI, RM (ERP)  
+
+---
+
+### 🌱 Perfil Profissional:
+
+Sou **autodidata**, com facilidade para aprender novas tecnologias e gosto de **compartilhar conhecimento com o time**.
+
+🗣️ **Inglês:** Nível técnico avançado (leitura e escrita), principalmente para **documentação**, **troubleshooting** e **estudos**.
+
+---
+
+### 🚀 O que eu busco:
+
+Estou aberto a oportunidades nas áreas de **Infraestrutura**, **Cloud**, **DevOps** e **Tecnologia em geral**.  
+Gosto de ambientes **desafiadores**, onde eu possa **aplicar minha experiência**, **aprender mais** e **gerar impacto real**.
+
+---
+
+📩 Quer conversar?  
+📌 [LinkedIn](https://www.linkedin.com/in/danielpenno) | [danielpenno@gmail.com](mailto:danielpenno@gmail.com)  
+📍 Palmas - Tocantins, Brasil
