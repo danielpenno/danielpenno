@@ -16,7 +16,7 @@ No activity tracked
 
 ## 👋 Hey there, welcome to my GitHub! 🚀
 
-🖐️ Hi! I'm Daniel, an **IT Infrastructure Specialist & Systems Administrator** with over **10 years of experience** in **large-scale critical environments**, combining daily operations, architectural modernization, and information security.
+🖐️ Hi! I'm Daniel, an **IT Infrastructure Manager & Senior Linux SysAdmin** with over **10 years of experience** in **large-scale critical environments**, combining daily operations, architectural modernization, and information security.
 
 ---
 
@@ -60,7 +60,7 @@ I’m **self-taught**, quick to learn new technologies, and passionate about **s
 
 ### 🚀 What I’m Looking For:
 
-I’m open to opportunities in **Infrastructure**, **Cloud**, **SysAdmin**, and **DevOps**.  
+I’m open to opportunities in **IT Infrastructure**, **Network Engineering**, **SysAdmin**, and **Information Security**.  
 I enjoy **challenging environments** where I can **apply my experience**, **learn more**, and **create real impact**.
 
 ---
@@ -74,7 +74,7 @@ I enjoy **challenging environments** where I can **apply my experience**, **lear
 
 ## 👋 E aí, bem-vindo(a) ao meu GitHub! 🚀
 
-🖐️ Olá! Sou o Daniel, **Especialista em Infraestrutura de TI & SysAdmin** com mais de **10 anos de experiência** em **ambientes críticos de grande escala**, atuando com operações diárias, modernização arquitetônica e segurança da informação.
+🖐️ Olá! Sou o Daniel, **Gestor de Infraestrutura de TI & SysAdmin Linux Sênior** com mais de **10 anos de experiência** em **ambientes críticos de grande escala**, atuando com operações diárias, modernização arquitetônica e segurança da informação.
 
 ---
 
@@ -118,7 +118,7 @@ Sou **autodidata**, com facilidade para aprender novas tecnologias e gosto de **
 
 ### 🚀 O que eu busco:
 
-Estou aberto a oportunidades nas áreas de **Infraestrutura**, **Cloud**, **SysAdmin** e **DevOps**.  
+Estou aberto a oportunidades nas áreas de **Infraestrutura de TI**, **Engenharia de Redes**, **SysAdmin** e **Segurança da Informação**.  
 Gosto de ambientes **desafiadores**, onde eu possa **aplicar minha experiência**, **aprender mais** e **gerar impacto real**.
 
 ---
