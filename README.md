@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     2 hrs 7 mins          ████████▓░░░░░░░░░░░░░░░░   35.32 %
-Python       1 hr 25 mins          ██████░░░░░░░░░░░░░░░░░░░   23.75 %
-JavaScript   1 hr 20 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
-PowerShell   24 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-Batchfile    10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Markdown     2 hrs 7 mins          ████████░░░░░░░░░░░░░░░░░   32.61 %
+Python       1 hr 40 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.85 %
+JavaScript   1 hr 19 mins          █████░░░░░░░░░░░░░░░░░░░░   20.39 %
+PowerShell   24 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+Bash         20 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
 ```
 
 <!--END_SECTION:waka-->
